@@ -15,11 +15,11 @@ This is a pytorch based application which extracts the important text form a giv
 ## 🧑‍💻 How to setup
 create fresh conda environment 
 ```python
-conda create -p venv python=3.10 -y
+conda create -p text python==3.10 -y
 ```
 activate conda environment
 ```python
-conda activate venv/
+conda activate text/
 ```
 Install requirements
 ```python
